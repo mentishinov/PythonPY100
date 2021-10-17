@@ -3,7 +3,7 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 172
+  - offset: 229
     length: 0
     placeholder_text: '# TODO Распечатать строку лесенкой'
     initial_state:
@@ -28,6 +28,17 @@ files:
 status: Failed
 feedback:
   message: Incorrect
-  time: Wed, 13 Oct 2021 17:39:00 UTC
-  actual: <no output>
+  time: Sat, 16 Oct 2021 19:29:40 UTC
+  actual: |2
+           H
+             e
+               l
+                 l
+                   o
+                     ,
+                       W
+                         o
+                           r
+                             l
+                               d
 record: -1
