@@ -15,7 +15,7 @@ if __name__ == "__main__":
     print("Минимальный элемент =", min_value, "находится по индексу", min_value_index)
 
 
-#это то что я придумала:
+:
     #for index, value in enumerate(list_,0):
         #current_value = value
         #if current_value <= min_value:

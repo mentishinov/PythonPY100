@@ -10,8 +10,8 @@ files:
       length: 12
       offset: 110
     initialized_from_dependency: false
-    selected: true
-    status: Solved
+    selected: false
+    status: Unchecked
     encrypted_possible_answer: min(list_))
   text: |
     if __name__ == "__main__":
@@ -26,8 +26,5 @@ files:
   text: |
     Минимальный элемент = -6
   learner_created: false
-status: Solved
-feedback:
-  message: Congratulations!
-  time: Sat, 16 Oct 2021 19:39:35 UTC
+status: Unchecked
 record: -1
