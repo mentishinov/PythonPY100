@@ -7,7 +7,7 @@ def task_1_6():
         sum_stip += a
         sum_raskh += b
         b *= 1.03
-        print("Необходимо денег : ",sum_raskh - sum_stip)
+    print("Необходимо денег : ",sum_raskh - sum_stip)
 
 if __name__ == "__main__":
     task_1_6()

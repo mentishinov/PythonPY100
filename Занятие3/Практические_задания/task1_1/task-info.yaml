@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 343
-    length: 15
+    length: 27
     placeholder_text: '...  # TODO вызвать функцию'
     initial_state:
       length: 27

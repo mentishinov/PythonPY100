@@ -1,17 +1,17 @@
 def task_1_7():
-    S = 10000
-    A = 2500
-    B = 3000
-    while S + A < B :
+    A = int(input("Введите стипендию : "))
+    B = int(input("Расходы : "))
+    S = int(input("Накопления : "))
+    n = 0
+    sum_stip = 0
+    sum_raskh = 0
+    while S + A > B:
+        sum_stip += A
+        sum_raskh += B
+        n += 1
+        B *= 1.05
+    print('Cтудент сможет прожить ', n ,'мес.')
 
-        current_sum += n ** 2
-
-        if current_sum + sqrt_n > max_sum:
-            break
-        current_sum <= max_sum
-        print(n, current_sum)
-
-    return n
 
 if __name__ == "__main__":
-    task_1_1()
+    task_1_7()
