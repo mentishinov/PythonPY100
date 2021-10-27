@@ -5,7 +5,7 @@ def check_string(str_):
         if d not in base:
             return False
     return True
-
+sadasd
 
 if __name__ == "__main__":
     # Write your solution here
