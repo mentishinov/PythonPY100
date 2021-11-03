@@ -13,3 +13,9 @@ for i in range(len(result)):
     else:
         even += 1
 print('Четных: ', odds, 'Нечетных: ', even)
+
+
+
+
+
+
